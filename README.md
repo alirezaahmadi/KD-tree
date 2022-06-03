@@ -1,4 +1,4 @@
-# KD-tree
+# CUDA Compatible KD-tree
 
 <p align="center">
     <img src="data/3dtree.png?raw=true" width="250" title="3dtree">
